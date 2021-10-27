@@ -3,9 +3,12 @@
 Determine and plot all the different partitions of ATC elementary sectors in France above FL195 with traffic library
 
 
+
 Example: plot all different partitions between FL195 and FL660 
 
 ![all_partitions](all_partitions.png)
+
+
 
 Example: plot one partition at a given layer with a background map
 
