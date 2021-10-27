@@ -31,7 +31,7 @@ On top of classical Python libraries (e.g. matplotlib), the following libraries 
 
 This code was tested with following versions:
 * Python 3.9.4
-* traffic 2.6.4
+* traffic 2.6.4 (AIRAC 2103)
 * contextily 1.1.0
 
 
